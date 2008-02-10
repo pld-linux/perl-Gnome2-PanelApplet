@@ -8,7 +8,7 @@ Summary:	Perl interface to the GNOME's applet library
 Summary(pl.UTF-8):	Interfejs perlowy do biblioteki apletów GNOME
 Name:		perl-Gnome2-PanelApplet
 Version:	0.02
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Development/Languages/Perl
 Source0:	http://dl.sourceforge.net/gtk2-perl/%{pnam}-%{version}.tar.gz
