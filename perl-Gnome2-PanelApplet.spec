@@ -15,6 +15,8 @@ Source0:	http://dl.sourceforge.net/gtk2-perl/%{pnam}-%{version}.tar.gz
 # Source0-md5:	f41e33ef3cbba5c3be1a17038ccc877e
 URL:		http://gtk2-perl.sourceforge.net/
 BuildRequires:	gnome-panel-devel >= 2.0.0
+# probably should be required by perl-Gnome2
+BuildRequires:	libgnomeui-devel
 BuildRequires:	perl-ExtUtils-Depends >= 0.200
 BuildRequires:	perl-ExtUtils-PkgConfig >= 1.03
 BuildRequires:	perl-Glib >= 1.160
