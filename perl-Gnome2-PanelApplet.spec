@@ -71,5 +71,4 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Gnome2/PanelApplet/Install
 %dir %{perl_vendorarch}/auto/Gnome2/PanelApplet
 %attr(755,root,root) %{perl_vendorarch}/auto/Gnome2/PanelApplet/PanelApplet.so
-%{perl_vendorarch}/auto/Gnome2/PanelApplet/PanelApplet.bs
 %{_mandir}/man3/Gnome2::PanelApplet*.3pm*
