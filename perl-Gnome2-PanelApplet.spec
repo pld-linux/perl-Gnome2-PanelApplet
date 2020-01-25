@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	tests	# perform "make test" (requires X server)
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pnam	Gnome2-PanelApplet
 Summary:	Perl interface to the GNOME's applet library
 Summary(pl.UTF-8):	Interfejs perlowy do biblioteki apletów GNOME
