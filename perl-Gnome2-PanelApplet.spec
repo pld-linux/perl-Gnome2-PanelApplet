@@ -25,6 +25,7 @@ BuildRequires:	perl-Gtk2 >= 1.160
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	pkgconfig
 BuildRequires:	rpm-perlprov >= 4.1-13
+BuildRequires:	rpmbuils(macros) >= 1.745
 Requires:	gnome-panel-libs >= 2.0.0
 Requires:	perl-Glib >= 1.160
 Requires:	perl-Gnome2 >= 1.042
